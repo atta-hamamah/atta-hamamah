@@ -40,8 +40,12 @@
 <br>
 ## :chart_with_upwards_trend: GitHub Stats
 <div class="stats" align="center">
+  
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atta-hamamah&layout=compact&show_icons=true&theme=algolia&border_radius=20)
+
 ![Atta GitHub Stats](https://github-readme-stats.vercel.app/api?username=atta-hamamah&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=atta-hamamah&count_private=true&theme=algolia&border_radius=20)
+
 </div>
 
