@@ -1,11 +1,9 @@
-### Hi there, this is Atta -  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+ Hi there, this is Atta -  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-
-## 
 
 <br />
 
-### 
+
 <h2 style="color: #44AEFB">⚙️ Languages and Tools</h2>
 <div align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
@@ -35,7 +33,7 @@
 </div>
 <br>
 <br>
-## :chart_with_upwards_trend: GitHub Stats
+ :chart_with_upwards_trend: GitHub Stats
 <div class="stats" align="center">
   
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atta-hamamah&layout=compact&show_icons=true&theme=algolia&border_radius=20)
