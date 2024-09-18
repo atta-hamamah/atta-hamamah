@@ -39,16 +39,17 @@
 <br>
 <br>
 
+
 ### :chart_with_upwards_trend: GitHub Stats
-<div class="stats" align="start">
-  
-![GitHub Streak](https://streak-stats.demolab.com?user=atta-hamamah&count_private=true&theme=algolia&border_radius=20)
-
-![Atta GitHub Stats](https://github-readme-stats.vercel.app/api?username=atta-hamamah&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atta-hamamah&layout=compact&show_icons=true&theme=algolia&border_radius=20)
-
+<div align="center" style="display: flex; justify-content: space-between;">
+  <img src="https://streak-stats.demolab.com?user=atta-hamamah&count_private=true&theme=algolia&border_radius=20" alt="GitHub Streak" style="width: 48%;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=atta-hamamah&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20" alt="Atta GitHub Stats" style="width: 48%;" />
 </div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atta-hamamah&layout=compact&show_icons=true&theme=algolia&border_radius=20" alt="Most Used Languages" />
+</div>
+
 
 ### 📫 Contact Me
 <div align="start">
