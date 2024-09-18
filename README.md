@@ -5,7 +5,7 @@
 
 
 <h2 style="color: #44AEFB">⚙️ Languages and Tools</h2>
-<div align="center">
+<div align="start">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
       <img  alt="HTML" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
   </a>
@@ -34,7 +34,7 @@
 <br>
 <br>
  :chart_with_upwards_trend: GitHub Stats
-<div class="stats" align="center">
+<div class="stats" align="start">
   
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atta-hamamah&layout=compact&show_icons=true&theme=algolia&border_radius=20)
 
