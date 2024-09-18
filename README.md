@@ -58,7 +58,7 @@
   <a href="https://www.facebook.com/profile.php?id=100012591522459" target="_blank" rel="noreferrer">
       <img alt="Facebook" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg"/>
   </a>
-  <a href="https://www.instagram.com/atta_hamamah/" target="_blank" rel="noreferrer">
-      <img alt="Instagram" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg"/>
-  </a>
+<a href="https://www.instagram.com/atta_hamamah/" target="_blank" rel="noreferrer">
+    <img alt="Instagram" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png"/>
+</a>
 </div>
