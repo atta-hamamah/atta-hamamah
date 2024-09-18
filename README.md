@@ -41,7 +41,7 @@
 
 
 ### :chart_with_upwards_trend: GitHub Stats
-<div align="center" style="display: flex; justify-content: space-between;">
+<div align="center" style="display: flex; justify-content: space-between;align-items: center;">
   <img src="https://streak-stats.demolab.com?user=atta-hamamah&count_private=true&theme=algolia&border_radius=20" alt="GitHub Streak" style="width: 48%;" />
   <img src="https://github-readme-stats.vercel.app/api?username=atta-hamamah&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20" alt="Atta GitHub Stats" style="width: 48%;" />
 </div>
