@@ -1,5 +1,5 @@
 ### Hi there, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  
-## this is Atta, a Front-End Developer at Pharaoh Soft
+## this is Atta, a Front-End/Mobile Developer at Pharaoh Soft
 <br />
 
 <h2 style="color: #44AEFB">⚙️ Languages and Tools</h2>
